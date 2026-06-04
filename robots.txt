@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-personal-portfolio-dusky-theta.vercel.app/sitemap.xml
